@@ -2,9 +2,9 @@
 
 32 家博物馆、545 件文物的单页图鉴，纯静态 HTML。
 
-在线访问：https://richelsky.github.io/zhonguoren/
+在线访问：https://richelsky.github.io/bowuguan/bowuguan.html
 
-- `index.html` 页面本体，数据与样式全部内联
+- `bowuguan.html` 页面本体，数据与样式全部内联
 - `images/` 文物图片，按展览编号命名（ep01_00 → 第一集第 0 张）
 
 图片版权归各博物馆及原发布媒体所有，此处仅作整理索引，点击每张图片的「图源」可跳转原始页面。
